@@ -7,7 +7,7 @@ GUANGZHEN LIU1 AND ZHIWU LU2,3
 Corresponding author: Zhiwu Lu (e-mail: zhiwu.lu@gmail.com).
 This work was supported in part by National Natural Science Foundation of China (61976220, 61832017, and 61573363), and Beijing
 Outstanding Young Scientist Program (BJJWZYJH012019100020098).  
-**ABSTRACT** Semantic segmentation is a fundamental vision problem which aims to divide an image into
+**ABSTRACT:** Semantic segmentation is a fundamental vision problem which aims to divide an image into
 non-overlapped regions and then assign them with predefined object labels. Despite its latest development
 (especially deep neural network-based), semantic segmentation is still far from comprehensive understand-ing of the visual world around us. For example, the obtained object labels are not fine-grained enough for
 solving more complicated vision tasks such as fine-grained retrieval with multiple attribute-based queries
