@@ -23,6 +23,6 @@ To overcome the attribute label noise caused by image-level weak supervision, we
 learning method for solving the WSAS problem. Extensive experiments demonstrate that the proposed
 WSAS method significantly outperforms the state-of-the-art WSSS and attribute localization methods.  
 
-**Dependencies**  
+**Dependencies:**  
 Matlab  
 liblinear  
