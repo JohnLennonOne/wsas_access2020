@@ -1,5 +1,5 @@
-This repository provides the official Matlab implementation of the following paper:
-Weakly-Supervised Attribute Segmentation
+This repository provides the official Matlab implementation of the following paper:  
+Weakly-Supervised Attribute Segmentation  
 GUANGZHEN LIU1 AND ZHIWU LU2,3
 1School of Information, Renmin University of China, Beijing 100872, China (e-mail: lgz_cr86@ruc.edu.cn)
 2Beijing Key Laboratory of Big Data Management and Analysis Methods, Beijing 100872, China (e-mail: zhiwu.lu@gmail.com)
@@ -18,8 +18,8 @@ annotations, we focus on weakly-supervised attribute segmentation (WSAS) that ut
 attribute labels for model training. Note that this new WSAS problem degrades to the conventional weaklysupervised semantic segmentation (WSSS) problem when attribute labels are considered as object labels.
 To overcome the attribute label noise caused by image-level weak supervision, we propose a novel sparse
 learning method for solving the WSAS problem. Extensive experiments demonstrate that the proposed
-WSAS method significantly outperforms the state-of-the-art WSSS and attribute localization methods.
+WSAS method significantly outperforms the state-of-the-art WSSS and attribute localization methods.  
 
-**Dependencies**
-Matlab
-liblinear
+**Dependencies**  
+Matlab  
+liblinear  
