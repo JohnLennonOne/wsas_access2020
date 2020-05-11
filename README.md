@@ -1,5 +1,7 @@
 This repository provides the official Matlab implementation of the following paper:  
-Weakly-Supervised Attribute Segmentation  
+
+**Weakly-Supervised Attribute Segmentation**  
+
 GUANGZHEN LIU1 AND ZHIWU LU2,3
 1School of Information, Renmin University of China, Beijing 100872, China (e-mail: lgz_cr86@ruc.edu.cn)
 2Beijing Key Laboratory of Big Data Management and Analysis Methods, Beijing 100872, China (e-mail: zhiwu.lu@gmail.com)
